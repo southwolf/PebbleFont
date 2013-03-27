@@ -4,6 +4,10 @@ PebbleFont is a sort of utils to parse Pebble firmware and resources, and to mak
 
 ## Some Useful Links:
 
+[KnewOne](http://knewone.com/), where I know Pebble and meet friends.
+
+[Basic Explanation](http://knewone.com/things/pebble/reviews/5152da067373c200c5000001)
+
 [Pebble Firmware Structure](http://pebbledev.org/wiki/Firmware_Updates)
 
 [Resource Image Format](http://pebbledev.org/wiki/Resource_Image_Format)

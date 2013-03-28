@@ -14,7 +14,7 @@ PebbleFont is a sort of utils to parse Pebble firmware and resources, and to mak
 
 [Resource Font Format](http://pebbledev.org/wiki/Resource_Font_Format)
 
-[LibPebble](https://github.com/Hexxeh/libpebble), connect to Pebble
+[LibPebble](https://github.com/Hexxeh/libpebble), connect to Pebble [Totorial](https://github.com/southwolf/PebbleFont/wiki/Connecting-Pebble-with-LibPebble)
 
 [NetBPM format](http://en.wikipedia.org/wiki/Netpbm_format), I found it similar to bitmap in Pebble firmware
 
